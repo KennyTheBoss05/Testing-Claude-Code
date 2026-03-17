@@ -13,6 +13,12 @@ def is_prime(n):
     return True
 
 
+def is_composite(n):
+    if n < 2:
+        return False
+    return not is_prime(n)
+
+
 if __name__ == "__main__":
     number = int(input("Enter a number: "))
     if is_prime(number):
