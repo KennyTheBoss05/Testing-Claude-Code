@@ -1,3 +1,6 @@
+from functools import lru_cache
+
+@lru_cache(maxsize=100_000)
 def is_prime(n):
     if n < 2:
         return False
