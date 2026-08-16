@@ -1,0 +1,9 @@
+.claude/
+CLAUDE - Copy.md
+__pycache__/
+claude-extension-points.md
+client_secret*.json
+
+# Jarvis worker logs
+.jarvis/tasks/**/*.log
+.jarvis/chats/

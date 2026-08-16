@@ -1,0 +1,18 @@
+{
+  "id": "001",
+  "slug": "prime-cache",
+  "project": "Testing Claude Code",
+  "project_path": "C:\\My Files\\Coding Projects\\Testing Claude Code",
+  "title": "Cache prime results",
+  "status": "merged",
+  "priority": "P2",
+  "branch": "feat/001-prime-cache",
+  "base_branch": "main",
+  "plan_session_id": "ef6dcc6c-abbd-4109-b933-97868f5243a3",
+  "exec_session_id": "66aca787-6ba3-4151-b71c-2edae4c44c3a",
+  "worker_pid": null,
+  "created": "2026-08-15",
+  "updated": "2026-08-15",
+  "overrides": {},
+  "note": "Phase 2 verification task — deliberately underspecified to test that the planner writes QUESTIONS.md instead of guessing."
+}
